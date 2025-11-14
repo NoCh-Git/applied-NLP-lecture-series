@@ -12,7 +12,7 @@ This course was originally designed for bachelor’s students in **Computer Scie
 |------|-------------------|--------|-----------------|
 | 1 | Word Level | Words as Data – Frequency, Style & Gender | [Week 1 Repo](https://github.com/NoCh-Git/applied-nlp-week1) |
 | 2 | Phrase Level | Ngrams, Pointwise Mutual Information, POS Patterns, Network Visualisation of Collocation  | [Week 2 Repo](https://github.com/NoCh-Git/applied-nlp-week2) |
-| 3 | Sentence Level | - | [Week 3 Repo](https://github.com/NoCh-Git/applied-nlp-week3) *(placeholder)* |
+| 3 | Sentence Level |Sentence length & distribution, Readability indices, Sentence embeddings (LLMs as semantic encoders), Clause density, Sentence types & dialogue ratio| [Week 3 Repo](https://github.com/NoCh-Git/applied-nlp-week3)|
 | 4 | Paragraph Level | - | [Week 4 Repo](https://github.com/NoCh-Git/applied-nlp-week4) *(placeholder)* |
 | 5 | Text Level | - | [Week 5 Repo](https://github.com/NoCh-Git/applied-nlp-week5) *(placeholder)* |
 | 6 | Synthesis | Preparing & Filtering Findings | [Week 6 Repo](https://github.com/NoCh-Git/applied-nlp-week6) *(placeholder)* |
