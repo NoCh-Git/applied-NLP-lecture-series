@@ -15,7 +15,7 @@ This course was originally designed for bachelor’s students in **Computer Scie
 | 3 | Sentence Level |Sentence length & distribution, Readability indices, Sentence embeddings (LLMs as semantic encoders), Clause density, Sentence types & dialogue ratio| [Week 3 Repo](https://github.com/NoCh-Git/applied-nlp-week3)|
 | 4 | Paragraph Level | Paragraph Coherence, Topic Drift Between Paragraphs, Discourse Marker Density, Paragraph–Summary Similarity, Paragraph Function Classification | [Week 4 Repo](https://github.com/NoCh-Git/applied-nlp-week4) |
 | 5 | Text Level | Retrieval Augmented Generation (RAG)| [Week 5 Repo](https://github.com/NoCh-Git/applied-nlp-week5) |
-| 6 | Synthesis | Preparing & Filtering Findings | [Week 6 Repo](https://github.com/NoCh-Git/applied-nlp-week6) *(placeholder)* |
+| 6 | Synthesis | Preparing & Filtering Findings | [Project Template Repo](https://github.com/AppliedNLP-SRH/ProjectTemplate)|
 | 7 | Presentation | Final Project Showcase | [Week 7 Repo](https://github.com/NoCh-Git/applied-nlp-week7) *(placeholder)* |
 
 
